@@ -1,4 +1,4 @@
 ---
-name: Tellstick Add-on
-url: "https://github.com/michaelarnauts/home-assistant-tellstick-addon"
-maintainer: michaelarnauts
+name: Tellstick Add-on (uart fix fork)
+url: "https://github.com/pallemannen/home-assistant-tellstick-addon"
+maintainer: pallemannen
