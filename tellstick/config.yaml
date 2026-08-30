@@ -38,4 +38,5 @@ schema:
 startup: system
 stdin: true
 usb: true
+uart: true
 init: false
